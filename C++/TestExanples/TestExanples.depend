@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1508977753 source:/home/brian/Documents/Projects/C++/TestExanples/main.cpp
+	"TestClasses.h"
+
+1508977771 /home/brian/Documents/Projects/C++/TestExanples/TestClasses.h
+	<iostream>
+
+1508977450 source:/home/brian/Documents/Projects/C++/TestExanples/TestClasses.cpp
+	"TestClasses.h"
+
